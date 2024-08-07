@@ -1,3 +1,4 @@
+#prog1
 #include<stdio.h>
 int ne=1,min_cost=0;
 void main()
