@@ -1,6 +1,7 @@
 #include<stdio.h>
 int ne=1,min_cost=0;
 void main()
+
 {
 int n,i,j,min,a,u,b,v,cost[20][20],parent[20];
 printf("Enter the no. of vertices:");
